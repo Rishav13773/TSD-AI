@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon_prefix">
+    <file>Icons/back-arrow.png</file>
+    <file>Icons/arrow-small-left.png</file>
+    <file>Icons/megaphone.png</file>
+  </qresource>
+</RCC>

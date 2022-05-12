@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>Images/mic_background.jpg</file>
+    <file>Images/Mic_texture.jpg</file>
+  </qresource>
+</RCC>
